@@ -1,5 +1,5 @@
 # php-5.6.13-win32-VC12
-PHP 5.6.13 Windows binaries compiled using Visual Studio 2013
+PHP 5.6.13 Windows binaries including all standand extensions compiled using Visual Studio 2013
 
 ## Steps to install
 * Unpack
