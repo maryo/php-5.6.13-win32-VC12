@@ -1,5 +1,6 @@
 # php-5.6.13-win32-VC12
-PHP 5.6.13 Windows binaries including all standand extensions present in original PHP distribution compiled using ** :exclamation:Visual Studio 2013:exclamation:**.
+PHP 5.6.13 Windows binaries including all standand extensions present in original PHP distribution compiled using
+:exclamation:**Visual Studio 2013**:exclamation:.
 The purpose of this package is to be able to load `php_v8` extension because VC12 is a minimum version you can compile V8 on windows with.
 
 ## Steps to install
